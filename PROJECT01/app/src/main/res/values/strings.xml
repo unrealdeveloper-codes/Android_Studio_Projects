@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="change_color_of_the_screen">Change color of the screen</string>
+    <string name="yellow">Yellow</string>
+    <string name="red">Red</string>
+    <string name="black">Black</string>
+    <string name="result">Result</string>
+    <string name="button">Button</string>
+    <string name="share">share</string>
+    <string name="edit">edit</string>
+    <string name="shareicon">share</string>
+    <string name="setting">setting</string>
+    <string name="sign_out">Sign out</string>
+</resources>

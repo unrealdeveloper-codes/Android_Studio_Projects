@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries">
+
+        <item>England</item>
+        <item>INDIA</item>
+        <item>USA</item>
+        <item>CHINA</item>
+        <item>NEPAL</item>
+        <item>UNITED KINGDOM</item>
+        <item>FRANCE</item>
+        <item>GERMANY</item>
+        <item>SINGAPORE</item>
+        <item>PAKISTAN</item>
+        <item>SPAIN</item>
+        <item>EGYPT</item>
+        <item>RUSSIA</item>
+        <item>FINLAND</item>
+        <item>England</item>
+        <item>INDIA</item>
+        <item>USA</item>
+        <item>CHINA</item>
+        <item>NEPAL</item>
+        <item>UNITED KINGDOM</item>
+        <item>FRANCE</item>
+        <item>GERMANY</item>
+        <item>SINGAPORE</item>
+        <item>PAKISTAN</item>
+        <item>SPAIN</item>
+        <item>EGYPT</item>
+        <item>RUSSIA</item>
+        <item>FINLAND</item>
+        <item>England</item>
+        <item>INDIA</item>
+        <item>USA</item>
+        <item>CHINA</item>
+        <item>NEPAL</item>
+        <item>UNITED KINGDOM</item>
+        <item>FRANCE</item>
+        <item>GERMANY</item>
+        <item>SINGAPORE</item>
+        <item>PAKISTAN</item>
+        <item>SPAIN</item>
+        <item>EGYPT</item>
+        <item>RUSSIA</item>
+        <item>FINLAND</item>
+
+
+    </string-array>
+
+
+</resources>

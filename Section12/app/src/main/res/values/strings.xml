@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Section 12</string>
+    <string name="country_list">Country List</string>
+    <string name="Country_list">Country List</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="animalname">TextView</string>
+    <string name="button14">Button14</string>
+    <string name="button15">Button15</string>
+    <string name="button13">Button13</string>
+    <string name="button12">Button12</string>
+    <string name="button11">Button11</string>
+    <string name="button10">Button10</string>
+    <string name="button9">Button9</string>
+    <string name="button8">Button8</string>
+    <string name="button7">Button7</string>
+    <string name="button6">Button6</string>
+    <string name="button5">Button5</string>
+    <string name="button4">Button4</string>
+    <string name="button3">Button3</string>
+    <string name="button2">Button2</string>
+    <string name="button1">Button1</string>
+</resources>

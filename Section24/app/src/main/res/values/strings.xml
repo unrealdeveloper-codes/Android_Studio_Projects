@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Section 24</string>
+    <string name="BigText">Android is a mobile operating system developed by Google,
+        primarily used in smartphones, tablets, and other smart devices. Based on the Linux kernel,
+        Android is open-source and highly customizable, making it the most widely used OS globally.
+        It supports millions of apps through the Google Play Store and is known for features like
+        multitasking,voice commands, and seamless Google integration. Android devices are produced
+        by various manufacturers including Samsung, OnePlus, and Xiaomi, offering users a wide range
+        of choices in terms of price and functionality. Frequent updates enhance security, performance
+        and user experience, keeping the platform competitive and innovative.</string>
+</resources>

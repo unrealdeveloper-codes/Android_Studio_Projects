@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FirstFirebaseProject</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="send_data">Send Data</string>
+    <string name="Send_data">Send data</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="add_user">Add User</string>
+    <string name="update_user">Update User</string>
+    <string name="todo">TODO</string>
+    <string name="delete_all_users">Delete All Users</string>
+    <string name="user_list">User List</string>
+    <string name="todos">TODO</string>
+    <string name="Enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="signup">SignUp</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="Enter_Email">Enter Email</string>
+    <string name="Enter_password">Enter Password</string>
+    <string name="Forgot_password">forgot password</string>
+    <string name="Sign_in">Sign In</string>
+    <string name="Sign_up">Sign Up</string>
+    <string name="Verify_with_phone_number">Verify With Phone Number</string>
+    <string name="Send_code">Send Code</string>
+    <string name="Enter_phone_number">Enter Phone Number</string>
+    <string name="Enter_verification_code">Enter Verification Code</string>
+    <string name="Verify_code">Verify Code</string>
+    <string name="enter_Email">Enter Email</string>
+    <string name="textviewName">TextView</string>
+    <string name="textviewAge">TextView</string>
+    <string name="textviewEmail">TextView</string>
+    <string name="todo_">TODO</string>
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "338097148375",
+    "firebase_url": "https://firstfirebaseproject-dbe36-default-rtdb.firebaseio.com",
+    "project_id": "firstfirebaseproject-dbe36",
+    "storage_bucket": "firstfirebaseproject-dbe36.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338097148375:android:aee587481358a283df7b92",
+        "android_client_info": {
+          "package_name": "com.anshul.firstfirebaseproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCA32Qx2O9U32iw-lrysj7kU0FI--S8x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

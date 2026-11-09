@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Section 21</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="sign_in">Sign in</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">section 15</string>
+    <string name="hello" translatable="false">Hello World!</string>
+    <string name="toast_message" translatable="false">"SHOW TOAST MESSAGE "</string>
+    <string name="message" translatable="false">message is send</string>
+</resources>
